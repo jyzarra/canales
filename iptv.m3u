@@ -1,37 +1,90 @@
 #EXTM3U
 
-
-#EXTINF:-1 group-title="Lista TV",TNT
-http://regioplay.xyz/php/SR_REGIO_513022_/regio22dd.php?c=tnt&k=SrRegio2022&dos=.m3u8
-#EXTM3U x-tvg-url="" tv-test="CL.m3u"
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", PAKA PAKA
+#EXTINF:-1 PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
+#EXTINF:-1 WOW TV
 https://regioplay.xyz/php/SR_REGIO_513022_/wowtv.php
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LATINO KIDS
+#EXTINF:-1 APLUS TV KIDS
+https://stmv1.voxtvhd.com.br:443/aplustv/aplustv/chunklist_w605855260.m3u8?PlaylistM3UCL
+#EXTINF:-1 Salta Canal 7
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8?PlaylistM3UCL
+#EXTINF:-1 ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 LATINO KIDS
 https://regioplay.xyz/php/SR_REGIO_513022_/latinokids.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Cine Sureno
+#EXTINF:-1 Cine Sureno
 https://regioplay.xyz/php/SR_REGIO_513022_/distroregio.php?c=cine-sureno&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Cine Real
-https://regioplay.xyz/php/SR_REGIO_513022_/distroregio.php?c=el-conflicto-tv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Chiquilines
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Top Cine Latam
+#EXTINF:-1 Cine Real
+https://regioplay.xyz/php/SR_REGIO_513022_/distroregio.php?c=cine-real-latam&f=.m3u8
+#EXTINF:-1 Chiquilines
+https://regioplay.xyz/php/SR_REGIO_513022_/distroregio.php?c=chiquilines&f=.m3u8
+#EXTINF:-1 Top Cine Latam
 https://regioplay.xyz/php/SR_REGIO_513022_/distroregio.php?c=top-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Saber mas
+#EXTINF:-1 Saber mas
 https://regioplay.xyz/php/SR_REGIO_513022_/distroregio.php?c=saber-mas&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Tu Cine Latam
+#EXTINF:-1 Tu Cine Latam
 https://regioplay.xyz/php/SR_REGIO_513022_/distroregio.php?c=tu-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Flash
+#EXTINF:-1 Flash
 https://regioplay.xyz/php/SR_REGIO_513022_/distroregio.php?c=flash-1&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", El conflicto TV
-
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
-https://vdo1.streamgato.us:3776/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_Radio_y_TV.png", Rewind Radio y TV * | CL
+#EXTINF:-1 El conflicto TV
+https://stream-us-east-1.getpublica.com/cl/7a0c6a87-55c1-4443-8d07-7614fba01d4f/654x480_1930460_1_false.m3u8
+#EXTINF:-1 CANAL CINE AR 
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 TV2 Salta 
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
+#EXTINF:-1 TIV CHACO 
+https://inliveserver.com:1936/14044/14044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 TELE Nord 
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 SPACE
+http://regioplay.xyz/php/SR_REGIO_513022_/regio22dd.php?c=space&k=SrRegio2022&dos=.m3u8
+#EXTINF:-1 TNT
+http://regioplay.xyz/php/SR_REGIO_513022_/regio22dd.php?c=tnt&k=SrRegio2022&dos=.m3u8
+#EXITINF:-1 Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 telediez
+https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
+#EXTINF:-1 Telecreativa
+https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 TLestrella
+https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 TDC TV Santa Fe
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 San Pedro TV
+https://srv6.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 Radio Canal San Francisco
+http://204.199.3.2/.m3u8?PlaylistM3UCL
+#EXTINF:-1 Radio Blu Tv HD
+https://59537faa0729a.streamlock.net:443/radioblu/radioblu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 NET TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 MultiVsion
+https://panel.dattalive.com:443/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 Milenium TV 
+https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 Metro TV Canal 12
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
+#EXTINF:-1 La Voz De Tucuman
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 Tele Vida Canal 9
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 Canal 5 Santa Fe
+https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 Canal 4 Posadas
+http://iptv.ixfo.com.ar:8081/live/C4POS/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 Canal 3 Pinamar
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
+#EXTINF:-1 Beat Digital
+https://5975e06a1f292.streamlock.net:4443/beatvideo/beatvideo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 TV Tropical HD
+https://cloud2.streaminglivehd.com:1936/8222/8222/chunklist_w571261595.m3u8?PlaylistM3UCL
+#EXTINF:-1 XTO TV
+https://614013e273786.streamlock.net:443/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 VINTAGE TV 
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 Rewind Radio y TV
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png", Latinos Radio * | CL
+#EXTINF:-1 Latinos Radio
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits - Mix 24-7 Top 100" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits - Mix 24-7 Top 100 * | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
@@ -609,8 +662,6 @@ https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 https://5eae379fb77bb.streamlock.net:443/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="899" tvg-name="Volvamos a Dios TV" tvg-logo="https://www.m3u.cl/logo/899_Volvamos_a_Dios_TV.", Volvamos a Dios TV | CL
 https://stmv.panel.mivideo.pro/remanenteescogido/remanenteescogido/playlist.m3u8?PlaylistM3UCL
-
-
 #EXTM3U x-tvg-url="" tv-test="VE.m3u"
 #EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
 https://vdo1.streamgato.us:3776/hybrid/play.m3u8?PlaylistM3UCL
